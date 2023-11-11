@@ -1,0 +1,16 @@
+
+*{
+    margin: 10px;
+    font-family: Palatino, URW Palladio L, serif;
+}
+body{
+    background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NDEtYm0wOGItbW9ja3VwLmpwZw.jpg=);
+}
+h1, h3, p{
+    text-align: center;
+}
+
+table, tr, td, th{
+    border: 1px solid black;
+    text-align: center;
+}
